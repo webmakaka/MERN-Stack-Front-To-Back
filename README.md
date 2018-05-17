@@ -112,6 +112,16 @@ https://github.com/themikenicholson/passport-jwt
 
 ![Application](/img/pic-03-04.png?raw=true)
 
+<br/>
+
+### 014 Validation Handlers - 1
+
+https://github.com/chriso/validator.js/
+
+<br/>
+
+![Application](/img/pic-03-05.png?raw=true)
+
 ---
 
 **Marley**
