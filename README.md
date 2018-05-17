@@ -72,7 +72,19 @@ https://github.com/bradtraversy/devconnector
 
 <br/>
 
-## 009 Creating The User Model
+### 009 Creating The User Model
+
+<br/>
+
+### 010 User Registration Postman
+
+https://github.com/emerleite/node-gravatar
+
+    $ npm install --save gravatar
+
+<br/>
+
+![Application](/img/pic-03-01.png?raw=true)
 
 ---
 
