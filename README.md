@@ -66,6 +66,14 @@ https://github.com/bradtraversy/devconnector
 
 ### 008 Route Files With Express Router
 
+<br/>
+
+## 03 User API Routes JWT Authentication
+
+<br/>
+
+## 009 Creating The User Model
+
 ---
 
 **Marley**
