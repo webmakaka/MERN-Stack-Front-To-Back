@@ -102,6 +102,16 @@ https://github.com/emerleite/node-gravatar
 
 ![Application](/img/pic-03-03.png?raw=true)
 
+<br/>
+
+### 013 Passport JWT Authentication Strategy
+
+https://github.com/themikenicholson/passport-jwt
+
+<br/>
+
+![Application](/img/pic-03-04.png?raw=true)
+
 ---
 
 **Marley**
