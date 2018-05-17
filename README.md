@@ -94,6 +94,14 @@ https://github.com/emerleite/node-gravatar
 
 ![Application](/img/pic-03-02.png?raw=true)
 
+<br/>
+
+### 012 Creating The JWT
+
+<br/>
+
+![Application](/img/pic-03-03.png?raw=true)
+
 ---
 
 **Marley**
