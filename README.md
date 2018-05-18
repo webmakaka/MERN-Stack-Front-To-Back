@@ -122,6 +122,22 @@ https://github.com/chriso/validator.js/
 
 ![Application](/img/pic-03-05.png?raw=true)
 
+<br/>
+
+### 015 Validation Handlers - 2
+
+<br/>
+
+![Application](/img/pic-03-06.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-03-07.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-03-08.png?raw=true)
+
 ---
 
 **Marley**
