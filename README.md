@@ -138,6 +138,18 @@ https://github.com/chriso/validator.js/
 
 ![Application](/img/pic-03-08.png?raw=true)
 
+<br/>
+
+## 04 Profile API Routes
+
+<br/>
+
+### 016 Aside - Front End Visual
+
+<br/>
+
+### 017 Creating The Profile Model
+
 ---
 
 **Marley**
