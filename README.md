@@ -190,6 +190,18 @@ with
 
 ![Application](/img/pic-04-05.png?raw=true)
 
+<br/>
+
+### 022 Add Experience Education Routes
+
+<br/>
+
+![Application](/img/pic-04-06.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-04-07.png?raw=true)
+
 ---
 
 **Marley**
