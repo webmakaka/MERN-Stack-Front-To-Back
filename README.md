@@ -162,6 +162,26 @@ https://github.com/chriso/validator.js/
 
 ### 019 Create Update Profile Routes
 
+<br/>
+
+### 020 Profile Field Validations
+
+<br/>
+
+![Application](/img/pic-04-02.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-04-03.png?raw=true)
+
+<br/>
+with  
+.populate("user", ["name", "avatar"])
+
+<br/>
+
+![Application](/img/pic-04-04.png?raw=true)
+
 ---
 
 **Marley**
