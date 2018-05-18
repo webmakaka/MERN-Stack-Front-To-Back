@@ -150,6 +150,14 @@ https://github.com/chriso/validator.js/
 
 ### 017 Creating The Profile Model
 
+<br/>
+
+### 018 Current User Profile Route
+
+<br/>
+
+![Application](/img/pic-04-01.png?raw=true)
+
 ---
 
 **Marley**

@@ -1,3 +1,5 @@
+123;
+
 const express = require("express");
 const router = express.Router();
 const gravatar = require("gravatar");
@@ -10,8 +12,6 @@ const validateRegisterInput = require("../../validation/register.js");
 const validateLoginInput = require("../../validation/login.js");
 
 const User = require("../../models/User.js");
-
-router.get("/test", (req, res) => res.json({ msg: "Users Works" }));
 
 router.post("/register", (req, res) => {
   const { errors, isValid } = validateRegisterInput(req.body);
