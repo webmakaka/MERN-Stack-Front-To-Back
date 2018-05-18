@@ -182,6 +182,14 @@ with
 
 ![Application](/img/pic-04-04.png?raw=true)
 
+<br/>
+
+### 021 More Profile API Routes
+
+<br/>
+
+![Application](/img/pic-04-05.png?raw=true)
+
 ---
 
 **Marley**
