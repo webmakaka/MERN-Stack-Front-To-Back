@@ -214,6 +214,14 @@ with
 
 ### 024 Creating The Post Model
 
+<br/>
+
+### 025 Post Create Route
+
+<br/>
+
+![Application](/img/pic-05-01.png?raw=true)
+
 ---
 
 **Marley**
