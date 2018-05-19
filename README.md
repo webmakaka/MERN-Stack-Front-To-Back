@@ -222,6 +222,22 @@ with
 
 ![Application](/img/pic-05-01.png?raw=true)
 
+<br/>
+
+### 026 Get Delete Post Routes
+
+<br/>
+
+![Application](/img/pic-05-02.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-05-03.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-05-04.png?raw=true)
+
 ---
 
 **Marley**
