@@ -250,6 +250,18 @@ with
 
 ![Application](/img/pic-05-06.png?raw=true)
 
+<br/>
+
+### 028 Add Remove Comment Routes
+
+<br/>
+
+![Application](/img/pic-05-07.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-05-08.png?raw=true)
+
 ---
 
 **Marley**
