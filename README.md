@@ -206,6 +206,14 @@ with
 
 ### 023 Delete Education Experience Routes
 
+<br/>
+
+## 05 Post API Routes
+
+<br/>
+
+### 024 Creating The Post Model
+
 ---
 
 **Marley**
