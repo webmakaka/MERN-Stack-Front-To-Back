@@ -262,6 +262,36 @@ with
 
 ![Application](/img/pic-05-08.png?raw=true)
 
+<br/>
+
+## 06 Getting Started With React The Frontend
+
+<br/>
+
+### 029 A Look At The Bootstrap Theme UI
+
+<br/>
+
+### 030 Implementing React
+
+    # npm install -g create-react-app
+    # su - nodejs
+
+    $ cd /project/
+    $ create-react-app client
+
+    $ npm install --save-dev concurrently
+
+    $ npm run dev
+
+<br/>
+
+![Application](/img/pic-06-01.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-06-02.png?raw=true)
+
 ---
 
 **Marley**
