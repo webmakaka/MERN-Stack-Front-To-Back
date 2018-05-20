@@ -305,6 +305,14 @@ with
 
 https://fontawesome.com/get-started
 
+<br/>
+
+### 032 Basic Layout
+
+<br/>
+
+![Application](/img/pic-06-03.png?raw=true)
+
 ---
 
 **Marley**
