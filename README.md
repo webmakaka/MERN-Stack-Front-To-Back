@@ -39,6 +39,13 @@ https://github.com/bradtraversy/devconnector
 
 <br/>
 
+**Chrome extensions:**
+
+* React Developer Tools
+* Redux Developer Tools
+
+<br/>
+
 ## 02 Basic Express Setup
 
 <br/>
@@ -291,6 +298,12 @@ with
 <br/>
 
 ![Application](/img/pic-06-02.png?raw=true)
+
+<br/>
+
+### 031 Bootstrap Assets Setup
+
+https://fontawesome.com/get-started
 
 ---
 
