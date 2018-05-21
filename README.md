@@ -367,6 +367,25 @@ https://fontawesome.com/get-started
 
 ![Application](/img/pic-07-05.png?raw=true)
 
+<br/>
+
+### 08 Redux Authentication
+
+<br/>
+
+### 038 Why We Need Redux
+
+<br/>
+
+### 039 Redux Store Chrome Extension Setup
+
+    # cd client/
+    # npm install --save redux react-redux redux-thunk
+
+<br/>
+
+![Application](/img/pic-08-01.png?raw=true)
+
 ---
 
 **Marley**
