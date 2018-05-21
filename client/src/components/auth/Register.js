@@ -1,6 +1,7 @@
 import React, { Component } from "react";
+import axios from "axios";
 
-class Regiter extends Component {
+class Register extends Component {
   constructor() {
     super();
     this.state = {
@@ -27,7 +28,11 @@ class Regiter extends Component {
       password: this.state.password,
       password2: this.state.password2
     };
-    console.log(newUser);
+
+    axios
+      .post("http://localhost:3000/api/users/register", newUser)
+      .then(res => console.log(res.data))
+      .catch(err => console.log(err.response.data));
   }
 
   render() {
@@ -95,4 +100,4 @@ class Regiter extends Component {
   }
 }
 
-export default Regiter;
+export default Register;

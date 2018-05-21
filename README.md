@@ -43,6 +43,7 @@ https://github.com/bradtraversy/devconnector
 
 * React Developer Tools
 * Redux Developer Tools
+* Allow-Control-Allow-Origin
 
 <br/>
 
@@ -343,6 +344,17 @@ https://fontawesome.com/get-started
 <br/>
 
 ![Application](/img/pic-07-03.png?raw=true)
+
+<br/>
+
+### 036 Testing Registration With Our Form - No Redux Yet
+
+    # cd client/
+    # npm install --save axios
+
+<br/>
+
+![Application](/img/pic-07-04.png?raw=true)
 
 ---
 
