@@ -313,6 +313,21 @@ https://fontawesome.com/get-started
 
 ![Application](/img/pic-06-03.png?raw=true)
 
+<br/>
+
+## 07 React Router Component State
+
+<br/>
+
+### 033 React Router Setup (v4)
+
+    # cd client/
+    # npm install --save react-router-dom
+
+<br/>
+
+![Application](/img/pic-07-01.png?raw=true)
+
 ---
 
 **Marley**
