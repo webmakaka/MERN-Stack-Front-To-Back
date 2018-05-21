@@ -356,6 +356,17 @@ https://fontawesome.com/get-started
 
 ![Application](/img/pic-07-04.png?raw=true)
 
+<br/>
+
+### 037 Error Handling Display
+
+    # cd client/
+    # npm install --save classnames
+
+<br/>
+
+![Application](/img/pic-07-05.png?raw=true)
+
 ---
 
 **Marley**
