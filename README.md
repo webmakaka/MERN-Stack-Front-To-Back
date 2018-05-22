@@ -386,6 +386,10 @@ https://fontawesome.com/get-started
 
 ![Application](/img/pic-08-01.png?raw=true)
 
+<br/>
+
+### 040 Redux Action Reducer Workflow Example
+
 ---
 
 **Marley**
