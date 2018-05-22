@@ -390,6 +390,10 @@ https://fontawesome.com/get-started
 
 ### 040 Redux Action Reducer Workflow Example
 
+<br/>
+
+### 041 Registration The Error Reducer
+
 ---
 
 **Marley**
