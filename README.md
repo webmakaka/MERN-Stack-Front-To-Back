@@ -404,6 +404,10 @@ https://fontawesome.com/get-started
 
 ### 043 Login Form Functionality
 
+<br/>
+
+### 044 Logout Conditional Navbar Links
+
 ---
 
 **Marley**
