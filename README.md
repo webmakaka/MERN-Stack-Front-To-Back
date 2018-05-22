@@ -394,6 +394,12 @@ https://fontawesome.com/get-started
 
 ### 041 Registration The Error Reducer
 
+<br/>
+
+### 042 Redux Login Action Set Current User
+
+    # npm install --save jwt-decode
+
 ---
 
 **Marley**
