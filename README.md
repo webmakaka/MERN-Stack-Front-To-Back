@@ -408,6 +408,14 @@ https://fontawesome.com/get-started
 
 ### 044 Logout Conditional Navbar Links
 
+<br/>
+
+## 09 Dashboard Profile State - Part 1
+
+<br/>
+
+### 045 TextFieldGroupInput Component
+
 ---
 
 **Marley**
