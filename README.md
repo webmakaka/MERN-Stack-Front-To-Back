@@ -416,6 +416,10 @@ https://fontawesome.com/get-started
 
 ### 045 TextFieldGroupInput Component
 
+<br/>
+
+### 046 Profile Reducer Get Current Profile
+
 ---
 
 **Marley**
