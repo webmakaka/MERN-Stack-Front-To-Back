@@ -420,6 +420,10 @@ https://fontawesome.com/get-started
 
 ### 046 Profile Reducer Get Current Profile
 
+<br/>
+
+### 047 Spinner Component Dashboard Start
+
 ---
 
 **Marley**
