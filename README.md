@@ -424,6 +424,12 @@ https://fontawesome.com/get-started
 
 ### 047 Spinner Component Dashboard Start
 
+<br/>
+
+### 048 Private Route Setup
+
+https://tylermcginnis.com/react-router-protected-routes-authentication/
+
 ---
 
 **Marley**
