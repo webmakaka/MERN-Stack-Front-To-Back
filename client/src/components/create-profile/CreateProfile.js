@@ -1,20 +1,22 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
+import { withRouter } from "react-router-dom";
 import PropTypes from "prop-types";
 import TextFieldGroup from "../common/TextFieldGroup.js";
 import TextAreaFieldGroup from "../common/TextAreaFieldGroup.js";
 import InputGroup from "../common/InputGroup.js";
 import SelectListGroup from "../common/SelectListGroup.js";
+import { createProfile } from "../../actions/profileActions.js";
 
 class CreateProfile extends Component {
   constructor(props) {
     super(props);
     this.state = {
       displaySocialInputs: false,
-      nadle: "",
+      handle: "",
       company: "",
       website: "",
-      locations: "",
+      location: "",
       status: "",
       skills: "",
       githubusername: "",
@@ -31,9 +33,34 @@ class CreateProfile extends Component {
     this.onSubmit = this.onSubmit.bind(this);
   }
 
+  componentWillReceiveProps(nextProps) {
+    if (nextProps.errors) {
+      this.setState({
+        errors: nextProps.errors
+      });
+    }
+  }
+
   onSubmit(e) {
     e.preventDefault();
-    console.log("submit");
+
+    const profileData = {
+      handle: this.state.handle,
+      company: this.state.company,
+      website: this.state.website,
+      location: this.state.location,
+      status: this.state.status,
+      skills: this.state.skills,
+      githubusername: this.state.githubusername,
+      bio: this.state.bio,
+      twitter: this.state.twitter,
+      facebook: this.state.facebook,
+      linkedin: this.state.linkedin,
+      youtube: this.state.youtube,
+      instagram: this.state.instagram
+    };
+
+    this.props.createProfile(profileData, this.props.history);
   }
 
   onChange(e) {
@@ -52,7 +79,7 @@ class CreateProfile extends Component {
             placeholder="Twitter Profile URL"
             name="twitter"
             icon="fab fa-twitter"
-            value={this.state.handle}
+            value={this.state.twitter}
             onChange={this.onChange}
             error={errors.twitter}
           />
@@ -76,7 +103,7 @@ class CreateProfile extends Component {
           />
 
           <InputGroup
-            placeholder="Youtube Channel URL"
+            placeholder="YouTube Channel URL"
             name="youtube"
             icon="fab fa-youtube"
             value={this.state.youtube}
@@ -105,7 +132,7 @@ class CreateProfile extends Component {
       { label: "Student of Learning", value: "Student of Learning" },
       { label: "Instructor or Teacher", value: "Instructor or Teacher" },
       { label: "Intern", value: "Intern" },
-      { label: "Other", value: "Developer" }
+      { label: "Other", value: "Other" }
     ];
 
     return (
@@ -125,7 +152,7 @@ class CreateProfile extends Component {
                   value={this.state.handle}
                   onChange={this.onChange}
                   error={errors.handle}
-                  info="A uniqeu handle for your profile URL. Your full name, company name, nickname"
+                  info="A unique handle for your profile URL. Your full name, company name, nickname"
                 />
 
                 <SelectListGroup
@@ -153,7 +180,7 @@ class CreateProfile extends Component {
                   value={this.state.website}
                   onChange={this.onChange}
                   error={errors.website}
-                  info="Could be your own websote or a company one"
+                  info="Could be your own website or a company one"
                 />
 
                 <TextFieldGroup
@@ -171,7 +198,7 @@ class CreateProfile extends Component {
                   value={this.state.skills}
                   onChange={this.onChange}
                   error={errors.skills}
-                  info="Please use comma separated valued (eg. HTML, CSS, JavaScript, PHP"
+                  info="Please use comma separated values (eg. HTML, CSS, JavaScript, PHP"
                 />
 
                 <TextFieldGroup
@@ -194,6 +221,7 @@ class CreateProfile extends Component {
 
                 <div className="mb-3">
                   <button
+                    type="button"
                     onClick={() => {
                       this.setState(prevState => ({
                         displaySocialInputs: !prevState.displaySocialInputs
@@ -231,4 +259,6 @@ const mapStateToProps = state => ({
   errors: state.errors
 });
 
-export default connect(mapStateToProps)(CreateProfile);
+export default connect(mapStateToProps, { createProfile })(
+  withRouter(CreateProfile)
+);

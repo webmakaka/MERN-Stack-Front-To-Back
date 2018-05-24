@@ -23,7 +23,7 @@ class Dashboard extends Component {
       } else {
         dashboardContent = (
           <div>
-            <p class="lead text-muted">Welcome {user.name}</p>
+            <p className="lead text-muted">Welcome {user.name}</p>
             <p>You have not yet setup a profile, please add some info</p>
             <Link to="/create-profile" className="btn btn-lg btn-info">
               Create Profile

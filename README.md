@@ -450,6 +450,10 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-09-02.png?raw=true)
 
+<br/>
+
+### 052 Create Profile Functionality
+
 ---
 
 **Marley**
