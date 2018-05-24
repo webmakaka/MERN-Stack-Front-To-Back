@@ -430,6 +430,14 @@ https://fontawesome.com/get-started
 
 https://tylermcginnis.com/react-router-protected-routes-authentication/
 
+<br/>
+
+### 049 CreateProfile Component Route
+
+<br/>
+
+![Application](/img/pic-09-01.png?raw=true)
+
 ---
 
 **Marley**
