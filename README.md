@@ -454,6 +454,18 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ### 052 Create Profile Functionality
 
+<br/>
+
+## 10 Dashboard Profile State - Part 2
+
+<br/>
+
+### 053 Profile Actions Component Delete Account
+
+<br/>
+
+![Application](/img/pic-10-01.png?raw=true)
+
 ---
 
 **Marley**
