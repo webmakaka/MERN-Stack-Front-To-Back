@@ -507,6 +507,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-10-05.png?raw=true)
 
+<br/>
+
+### 059 Dashboard Education Display Delete
+
+<br/>
+
+![Application](/img/pic-10-06.png?raw=true)
+
 ---
 
 **Marley**
