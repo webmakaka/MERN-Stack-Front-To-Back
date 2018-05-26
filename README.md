@@ -494,6 +494,19 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-10-04.png?raw=true)
 
+<br/>
+
+### 058 Dashboard Experience Display Delete
+
+<br/>
+
+    # cd client/
+    # npm install --save moment react-moment
+
+<br/>
+
+![Application](/img/pic-10-05.png?raw=true)
+
 ---
 
 **Marley**

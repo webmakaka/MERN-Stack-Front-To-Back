@@ -8,6 +8,7 @@ import {
 } from "../../actions/profileActions.js";
 import Spinner from "../common/Spinner.js";
 import ProfileActions from "./ProfileActions.js";
+import Experience from "./Experience.js";
 
 class Dashboard extends Component {
   componentDidMount() {
@@ -33,6 +34,9 @@ class Dashboard extends Component {
               Welcome <Link to={`/profile/${profile.hadle}`}>{user.name}</Link>
             </p>
             <ProfileActions />
+
+            <Experience experience={profile.experience} />
+
             <div style={{ marginBottom: "60px" }} />
             <button
               onClick={this.onDeleteClick.bind(this)}
