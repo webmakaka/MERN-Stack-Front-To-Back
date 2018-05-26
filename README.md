@@ -486,6 +486,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ### 056 Add Experience Functionality
 
+<br/>
+
+### 057 Add Education Form Functionality
+
+<br/>
+
+![Application](/img/pic-10-04.png?raw=true)
+
 ---
 
 **Marley**
