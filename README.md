@@ -535,6 +535,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-11-02.png?raw=true)
 
+<br/>
+
+### 062 Profile By Handle Sub Components
+
+<br/>
+
+![Application](/img/pic-11-03.png?raw=true)
+
 ---
 
 **Marley**
