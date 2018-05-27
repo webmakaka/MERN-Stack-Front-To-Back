@@ -559,6 +559,10 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-11-05.png?raw=true)
 
+<br/>
+
+### 065 Profile Github Touch Ups
+
 ---
 
 **Marley**
