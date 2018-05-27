@@ -515,6 +515,18 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-10-06.png?raw=true)
 
+<br/>
+
+## 11 Profile Display
+
+<br/>
+
+### 060 Profiles Component getProfiles Action
+
+<br/>
+
+![Application](/img/pic-11-01.png?raw=true)
+
 ---
 
 **Marley**
