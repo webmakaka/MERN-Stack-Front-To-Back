@@ -527,6 +527,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-11-01.png?raw=true)
 
+<br/>
+
+### 061 Profile Items
+
+<br/>
+
+![Application](/img/pic-11-02.png?raw=true)
+
 ---
 
 **Marley**
