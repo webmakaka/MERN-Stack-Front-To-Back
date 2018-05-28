@@ -23,7 +23,7 @@ import AddExperience from "./components/add-credentials/AddExperience.js";
 import AddEducation from "./components/add-credentials/AddEducation.js";
 import Profiles from "./components/profiles/Profiles.js";
 import Profile from "./components/profile/Profile.js";
-import Posts from "./components/posts/Post.js";
+import Posts from "./components/posts/Posts.js";
 import NotFound from "./components/not-found/NotFound.js";
 
 import "./App.css";

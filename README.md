@@ -24,7 +24,9 @@ https://github.com/bradtraversy/devconnector
         "emmet.syntaxProfiles": {
             "javascript": "jsx"
         },
-        "editor.formatOnSave": true
+        "editor.formatOnSave": true,
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 10000
     }
 
 <br/>
@@ -578,6 +580,10 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 <br/>
 
 ![Application](/img/pic-12-01.png?raw=true)
+
+<br/>
+
+### 068 getPosts Action PostFeed Component
 
 ---
 
