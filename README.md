@@ -601,6 +601,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-12-03.png?raw=true)
 
+<br/>
+
+### 071 Single Post Display
+
+<br/>
+
+![Application](/img/pic-12-04.png?raw=true)
+
 ---
 
 **Marley**
