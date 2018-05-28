@@ -585,6 +585,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ### 068 getPosts Action PostFeed Component
 
+<br/>
+
+### 069 Post Item Component
+
+<br/>
+
+![Application](/img/pic-12-02.png?raw=true)
+
 ---
 
 **Marley**

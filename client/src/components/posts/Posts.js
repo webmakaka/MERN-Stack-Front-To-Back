@@ -36,7 +36,7 @@ class Posts extends Component {
   }
 }
 
-Posts.PropTypes = {
+Posts.propTypes = {
   getPosts: PropTypes.func.isRequired,
   post: PropTypes.object.isRequired
 };
