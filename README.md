@@ -593,6 +593,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-12-02.png?raw=true)
 
+<br/>
+
+### 070 Delete Like Unlike Posts
+
+<br/>
+
+![Application](/img/pic-12-03.png?raw=true)
+
 ---
 
 **Marley**
