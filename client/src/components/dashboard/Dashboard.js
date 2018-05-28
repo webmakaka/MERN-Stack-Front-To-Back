@@ -84,11 +84,11 @@ Dashboard.propTypes = {
   profile: PropTypes.object.isRequired
 };
 
-const mapSteteToProps = state => ({
+const mapStateToProps = state => ({
   profile: state.profile,
   auth: state.auth
 });
 
-export default connect(mapSteteToProps, { getCurrentProfile, deleteAccount })(
+export default connect(mapStateToProps, { getCurrentProfile, deleteAccount })(
   Dashboard
 );
