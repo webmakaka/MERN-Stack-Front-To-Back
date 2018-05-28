@@ -571,6 +571,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ### 066 Post State addPost Action
 
+<br/>
+
+### 067 Posts Post Form Component
+
+<br/>
+
+![Application](/img/pic-12-01.png?raw=true)
+
 ---
 
 **Marley**
