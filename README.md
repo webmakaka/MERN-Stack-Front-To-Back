@@ -617,6 +617,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-12-05.png?raw=true)
 
+<br/>
+
+### 073 Comment Display Delete
+
+<br/>
+
+![Application](/img/pic-12-06.png?raw=true)
+
 ---
 
 **Marley**
