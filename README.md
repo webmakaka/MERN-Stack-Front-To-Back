@@ -11,6 +11,40 @@ https://github.com/bradtraversy/devconnector
 
 ## 01 Introduction
 
+    $ node -v
+    v9.11.1
+
+<br/>
+
+    $ npm -v
+    6.0.1
+
+<br/>
+
+    $ npm list -g --depth=0
+    /usr/local/lib
+    +-- create-react-app@1.5.2
+    `-- npm@6.0.1
+
+<br/>
+
+    $ npm list --depth=0
+    client@0.1.0 /project/client
+    +-- axios@0.18.0
+    +-- classnames@2.2.5
+    +-- jwt-decode@2.2.0
+    +-- moment@2.22.1
+    +-- react@16.3.2
+    +-- react-dom@16.3.2
+    +-- react-moment@0.7.0
+    +-- react-redux@5.0.7
+    +-- react-router-dom@4.2.2
+    +-- react-scripts@1.1.4
+    +-- redux@4.0.0
+    `-- redux-thunk@2.2.0
+
+<br/>
+
 **Visual Studio Code Settings:**
 
     {
@@ -185,8 +219,9 @@ https://github.com/chriso/validator.js/
 ![Application](/img/pic-04-03.png?raw=true)
 
 <br/>
-with  
-.populate("user", ["name", "avatar"])
+
+    with  
+    .populate("user", ["name", "avatar"])
 
 <br/>
 
