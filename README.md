@@ -625,6 +625,16 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-12-06.png?raw=true)
 
+<br/>
+
+## 13 Prepare Deploy
+
+<br/>
+
+### 074 Securing Our Keys
+
+
+
 ---
 
 **Marley**

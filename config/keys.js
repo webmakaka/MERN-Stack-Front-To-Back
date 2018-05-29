@@ -1,5 +1,5 @@
-module.exports = {
-  mongoURI:
-    "mongodb://user1:password1@ds215739.mlab.com:15739/mern-stack-front-to-back",
-  secretOrKey: "secret"
-};
+if (process.env.NODE_ENV === "production") {
+  module.exports = require("./keys_prod.js");
+} else {
+  module.exports = require("./keys_dev.js");
+}
