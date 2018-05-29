@@ -633,7 +633,16 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ### 074 Securing Our Keys
 
+<br/>
 
+### 075 Heroku Setup
+
+<br/>
+
+### 076 Post Build Deployment
+
+    $ cd client/
+    $ npm run build
 
 ---
 
