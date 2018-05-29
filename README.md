@@ -609,6 +609,14 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 ![Application](/img/pic-12-04.png?raw=true)
 
+<br/>
+
+### 072 Comment Form Component Action
+
+<br/>
+
+![Application](/img/pic-12-05.png?raw=true)
+
 ---
 
 **Marley**
