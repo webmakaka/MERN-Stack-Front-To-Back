@@ -104,7 +104,8 @@ https://github.com/bradtraversy/devconnector
         },
         "editor.formatOnSave": true,
         "files.autoSave": "afterDelay",
-        "files.autoSaveDelay": 10000
+        "files.autoSaveDelay": 10000,
+        "prettier.singleQuote": true
     }
 
 <br/>
