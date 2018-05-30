@@ -11,6 +11,29 @@ https://github.com/bradtraversy/devconnector
 
 ## 01 Introduction
 
+<br/>
+
+**Host**
+
+    $ lsb_release -a
+    No LSB modules are available.
+    Distributor ID:	Ubuntu
+    Description:	Ubuntu 14.04.5 LTS
+    Release:	14.04
+    Codename:	trusty
+
+
+<br/>
+
+    $ docker -v
+    Docker version 18.03.0-ce, build 0520e24
+
+<br/>
+
+**Inside container:**
+
+<br/>
+
     $ node -v
     v9.11.1
 
@@ -21,10 +44,31 @@ https://github.com/bradtraversy/devconnector
 
 <br/>
 
+**Final project packages**
+
+<br/>
+
     $ npm list -g --depth=0
     /usr/local/lib
     +-- create-react-app@1.5.2
     `-- npm@6.0.1
+
+<br/>
+
+    $ npm list --depth=0
+    project@1.0.0 /project
+    +-- bcryptjs@2.4.3
+    +-- body-parser@1.18.3
+    +-- concurrently@3.5.1
+    +-- express@4.16.3
+    +-- gravatar@1.6.0
+    +-- jsonwebtoken@8.2.1
+    +-- mongoose@5.1.1
+    +-- nodemon@1.17.4
+    +-- passport@0.4.0
+    +-- passport-jwt@4.0.0
+    `-- validator@10.2.0
+
 
 <br/>
 
@@ -65,7 +109,7 @@ https://github.com/bradtraversy/devconnector
 
 <br/>
 
-**Plugins:**
+**Visual Studio Code Plugins:**
 
 * ES7 React/Redux/React-Native/JS snippets
 * Bracket Pair Colorizer
