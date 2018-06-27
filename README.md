@@ -724,6 +724,11 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
     $ cd client/
     $ npm run build
 
+<br/>
+
+    # npm install -g serve
+    $ serve -s build -l 8080
+
 ---
 
 **Marley**
