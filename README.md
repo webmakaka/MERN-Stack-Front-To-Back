@@ -100,7 +100,8 @@ https://github.com/bradtraversy/devconnector
             "javascript": "javascriptreact"
         },
         "emmet.syntaxProfiles": {
-            "javascript": "jsx"
+            "javascript": "jsx",
+            "javascript": "html"
         },
         "editor.formatOnSave": true,
         "files.autoSave": "afterDelay",
