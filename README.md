@@ -1,6 +1,4 @@
-# MERN-Stack-Front-To-Back
-
-[Udemy] MERN Stack Front To Back: Full Stack React, Redux &amp; Node.js [2018, ENG]
+# [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2018, ENG]
 
 **Original src:**  
 https://github.com/bradtraversy/devconnector
@@ -21,7 +19,6 @@ https://github.com/bradtraversy/devconnector
     Description:	Ubuntu 14.04.5 LTS
     Release:	14.04
     Codename:	trusty
-
 
 <br/>
 
@@ -69,7 +66,6 @@ https://github.com/bradtraversy/devconnector
     +-- passport-jwt@4.0.0
     `-- validator@10.2.0
 
-
 <br/>
 
     $ npm list --depth=0
@@ -113,19 +109,19 @@ https://github.com/bradtraversy/devconnector
 
 **Visual Studio Code Plugins:**
 
-* ES7 React/Redux/React-Native/JS snippets
-* Bracket Pair Colorizer
-* Prettier formatter for Visual Studio Code
-* Live Server
-* Node.js Modules Intellisense
+- ES7 React/Redux/React-Native/JS snippets
+- Bracket Pair Colorizer
+- Prettier formatter for Visual Studio Code
+- Live Server
+- Node.js Modules Intellisense
 
 <br/>
 
 **Chrome extensions:**
 
-* React Developer Tools
-* Redux Developer Tools
-* Allow-Control-Allow-Origin
+- React Developer Tools
+- Redux Developer Tools
+- Allow-Control-Allow-Origin
 
 <br/>
 
@@ -266,7 +262,7 @@ https://github.com/chriso/validator.js/
 
 <br/>
 
-    with  
+    with
     .populate("user", ["name", "avatar"])
 
 <br/>
@@ -734,4 +730,4 @@ https://tylermcginnis.com/react-router-protected-routes-authentication/
 
 **Marley**
 
-<a href="https://labs.jsdev.org">labs.jsdev.org</a>
+<a href="https://jsdev.org">jsdev.org</a>
