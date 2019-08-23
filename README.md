@@ -4,6 +4,16 @@
 https://github.com/bradtraversy/devconnector
 
 <br/>
+
+**Brad made a new version of this course in 2019**
+
+**Original src v2:**  
+https://github.com/bradtraversy/devconnector_2.0
+
+**My src v2 (in progress):**  
+https://github.com/marley-nodejs/MERN-Stack-Front-To-Back-v2.0
+
+<br/>
 <hr/>
 <br/>
 
