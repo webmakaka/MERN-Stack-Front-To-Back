@@ -10,7 +10,7 @@ https://github.com/bradtraversy/devconnector
 **Original src v2:**  
 https://github.com/bradtraversy/devconnector_2.0
 
-**My src v2 (in progress):**  
+**My src v2:**  
 https://github.com/marley-nodejs/MERN-Stack-Front-To-Back-v2.0
 
 <br/>
